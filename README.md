@@ -1,4 +1,6 @@
-> Conteudos das aulas com o Gabriel Mendes
+> Conteudos das aulas com o *Gabriel Mendes*
 
-> Professor: [Tiago França](https://tiagofranca.com)
+> Professor **Tiago França**
+> - [Linkedin](https://www.linkedin.com/in/tiago-frança)
+> - [Site](https://tiagofranca.com)
 
