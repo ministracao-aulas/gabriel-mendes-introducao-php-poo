@@ -1,0 +1,94 @@
+{
+    "code": "HUV5TLEJ",
+    "sender": {
+        "name": "teste",
+        "document": "37169698000183",
+        "address": {
+            "zipcode": "09531190",
+            "street": "Alameda Terracota",
+            "number": null,
+            "complement": null,
+            "district": "",
+            "city": {
+                "name": "São Caetano do Sul",
+                "state": "SP"
+            }
+        }
+    },
+    "recipient": {
+        "name": "Tiago Fernandes",
+        "document": "22531311000110",
+        "address": {
+            "zipcode": "30240440",
+            "street": "Rua Professor Tancredo Martins",
+            "number": null,
+            "complement": null,
+            "district": "",
+            "city": {
+                "name": "Belo Horizonte",
+                "state": "MG"
+            }
+        }
+    },
+    "volumes": [
+        {
+            "quantity": 1,
+            "width": 10.2,
+            "height": 8,
+            "length": 4,
+            "weight": 3
+        }
+    ],
+    "weight": 3,
+    "cubed_weight": 0.09792,
+    "freight_payer": null,
+    "invoice_amount": 201.92,
+    "invoice_access_key": null,
+    "invoice_number": null,
+    "prices": [
+        {
+            "id": 15765723,
+            "shipping_carrier": "Azul Cargo Express",
+            "price": 30.85,
+            "is_required_term": true,
+            "delivery_time": 7
+        },
+        {
+            "id": 15765724,
+            "shipping_carrier": "JADLOG",
+            "price": 31.21,
+            "is_required_term": true,
+            "delivery_time": 5
+        },
+        {
+            "id": 15765725,
+            "shipping_carrier": "Azul Cargo Express",
+            "price": 40.52,
+            "is_required_term": true,
+            "delivery_time": 5
+        },
+        {
+            "id": 15765726,
+            "shipping_carrier": "BUSLOG",
+            "price": 57.03,
+            "is_required_term": true,
+            "delivery_time": 2
+        },
+        {
+            "id": 15765727,
+            "shipping_carrier": "TRANS WELLS",
+            "price": 64.48,
+            "is_required_term": true,
+            "delivery_time": 3
+        },
+        {
+            "id": 15765728,
+            "shipping_carrier": "TRANS WELLS",
+            "price": 64.48,
+            "is_required_term": true,
+            "delivery_time": 3
+        }
+    ],
+    "expiration": "2021-08-19 00:00:00",
+    "created_at": "2021-08-12 08:24:13"
+}

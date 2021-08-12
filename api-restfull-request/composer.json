@@ -1,0 +1,17 @@
+{
+    "name": "tiago/api-restfull-request",
+    "autoload": {
+        "psr-4": {
+            "Tiago\\ApiRestfullRequest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tiago França",
+            "email": "dev@tiagofranca.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.3"
+    }
+}
